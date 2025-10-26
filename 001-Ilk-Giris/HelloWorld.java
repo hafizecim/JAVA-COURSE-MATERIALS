@@ -10,12 +10,12 @@ public class HelloWorld { // 🔹 Sınıf tanımı: Java'da her şey bir sınıf
         System.out.println("Hello, World!");
 
         // 💬 System.out.print() satır atlamaz
-        System.out.print("Hazel ");
+        System.out.print("Hafize Şenyıl ");
         System.out.print("Java öğreniyor!");
 
         // 🔹 Yukarıdaki iki print aynı satırda yazar
         // Çıktı:
         // Hello, World!
-        // Hazel Java öğreniyor!
+        // Hafize Şenyıl Java öğreniyor!
     }
 }

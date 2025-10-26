@@ -1,7 +1,7 @@
 /*  
  * 🌿----------------------------------------------------------
  * 💻  JAVA DERSLERİ - 2. ADIM: "SÖZDİZİMİ ve DEĞİŞKENLER"
- * 👩‍💻  Hazırlayan: Hazel Sahra
+ * 👩‍💻  Hazırlayan: Hafize Şenyıl
  * 🗓️  Tarih: 26.10.2025
  * 📁  Klasör: D:\JAVA-DERSLERİ
  * 🌱  Konu: Değişken tanımlama, veri türleri, işlem ve çıktı
@@ -24,7 +24,7 @@ public class Step2_SyntaxAndVariables {
         double height = 1.68;         // Ondalıklı sayı
         char grade = 'A';             // Tek karakter
         boolean isStudent = true;     // Mantıksal değer (true/false)
-        String name = "Hazel Sahra";  // Metin (string)
+        String name = "Hafize Şenyıl";  // Metin (string)
 
         // 🔹 3️⃣ EKRANA YAZDIRMA (OUTPUT)
         System.out.println("👋 Merhaba, benim adım " + name);
@@ -68,7 +68,7 @@ public class Step2_SyntaxAndVariables {
         // 🔹 8️⃣ PROGRAM SONU MESAJI
         System.out.println("\n🎉 Step 2 başarıyla tamamlandı!");
         System.out.println("--------------------------------------------------");
-        System.out.println("Hazel Sahra - Step 2: Sözdizimi ve Değişkenler");
+        System.out.println("Hafize Şenyıl - Step 2: Sözdizimi ve Değişkenler");
         System.out.println("--------------------------------------------------");
     }
 }

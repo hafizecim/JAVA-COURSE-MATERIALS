@@ -1,7 +1,7 @@
 /*
  * 🧮----------------------------------------------------------
  * 💻 JAVA DERSLERİ - PEKİŞTİRME: "ARİTMETİK OYUNU"
- * 👩‍💻 Hazel Sahra
+ * 👩‍💻 Hafize Şenyıl
  * 📅 26.10.2025
  * -----------------------------------------------------------
  */
@@ -47,7 +47,7 @@ public class Step2C_ArithmeticFun {
         // 🔹 7️⃣ PROGRAM SONU
         System.out.println("\n🎉 Step 2C tamamlandı!");
         System.out.println("--------------------------------------------------");
-        System.out.println("Hazel Sahra - Step 2C: Arithmetic Fun");
+        System.out.println("Hafize Şenyıl - Step 2C: Arithmetic Fun");
         System.out.println("--------------------------------------------------");
     }
 }

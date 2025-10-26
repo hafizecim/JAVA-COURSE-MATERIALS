@@ -1,7 +1,7 @@
 /*
  * 🌟----------------------------------------------------------
  * 💻 JAVA DERSLERİ - PEKİŞTİRME: "FUN CALCULATIONS"
- * 👩‍💻 Hazel Sahra
+ * 👩‍💻 Hafize Şenyıl
  * 📅 26.10.2025
  * 🌱 Konu: Değişkenler, matematik, string birleştirme
  * -----------------------------------------------------------
@@ -11,7 +11,7 @@ public class Step2D_FunCalculations {
     public static void main(String[] args) {
 
         // 🔹 1️⃣ ÖĞRENCİ BİLGİLERİ
-        String name = "Hazel Sahra";
+        String name = "Hafize Şenyıl";
         int age = 25;
         System.out.println("👋 Merhaba, ben " + name + ", " + age + " yaşındayım!");
 
@@ -59,7 +59,7 @@ public class Step2D_FunCalculations {
         // 🔹 7️⃣ PROGRAM SONU
         System.out.println("\n🎉 Step 2D tamamlandı!");
         System.out.println("--------------------------------------------------");
-        System.out.println("Hazel Sahra - Step 2D: Fun Calculations");
+        System.out.println("Hafize Şenyıl - Step 2D: Fun Calculations");
         System.out.println("--------------------------------------------------");
     }
 }

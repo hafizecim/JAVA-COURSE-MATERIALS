@@ -1,7 +1,7 @@
 /*
  * 🌿----------------------------------------------------------
  * 💻 JAVA DERSLERİ - PEKİŞTİRME: "DEĞİŞKENLER ve İŞLEMLER"
- * 👩‍💻 Hazel Sahra
+ * 👩‍💻 Hafize Şenyıl
  * 📅 26.10.2025
  * 📘 Konu: Değişken türleri, hesaplamalar, string birleştirme
  * -----------------------------------------------------------
@@ -11,7 +11,7 @@ public class Step2B_VariablesPractice {
     public static void main(String[] args) {
 
         // 🔹 1️⃣ BİLGİ DEPOLAMA
-        String studentName = "Hazel Sahra";
+        String studentName = "Hafize Şenyıl";
         int studentAge = 25;
         double studentHeight = 1.68;
         double studentWeight = 56.4;
@@ -57,7 +57,7 @@ public class Step2B_VariablesPractice {
         // 🔹 9️⃣ PROGRAM SONU
         System.out.println("\n🎉 Pekiştirme tamamlandı!");
         System.out.println("--------------------------------------------------");
-        System.out.println("Hazel Sahra - Step 2B: Variables Practice");
+        System.out.println("Hafize Şenyıl - Step 2B: Variables Practice");
         System.out.println("--------------------------------------------------");
     }
 }

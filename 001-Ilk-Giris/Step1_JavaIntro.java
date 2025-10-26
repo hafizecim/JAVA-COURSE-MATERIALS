@@ -1,7 +1,7 @@
 /*  
  * 🌿----------------------------------------------------------
  * 💻  JAVA DERSLERİ - 1. ADIM: "JAVA'YA GİRİŞ"
- * 👩‍💻  Hazırlayan: Hazel Sahra
+ * 👩‍💻  Hazırlayan: Hafize Şenyıl
  * 🗓️  Tarih: 26.10.2025
  * 📁  Klasör: D:\JAVA-DERSLERİ
  * 🌱  Konu: Java'nın temelleri, ilk kod, açıklama satırları
@@ -16,7 +16,7 @@ public class Step1_JavaIntro {
 
         // 🖨️ Ekrana yazı yazdırmak için System.out.println() kullanılır
         System.out.println("🌼 Hello, Java World!");
-        System.out.println("💻 Hazel Sahra burada! Java öğrenmeye başlıyorum.");
+        System.out.println("💻 Hafize Şenyıl burada! Java öğrenmeye başlıyorum.");
 
         // 🔹 System.out.print() komutu satır atlamaz
         System.out.print("Bu satırda satır sonu yok -> ");
@@ -26,7 +26,7 @@ public class Step1_JavaIntro {
         System.out.print("\nBu satırda \\n kullanıldı ve alt satıra geçildi!\n");
 
         // 🔹 String birleştirme örneği (+ operatörü)
-        String name = "Hazel";
+        String name = "Hafize";
         String goal = "become a professional Java developer!";
         System.out.println("🚀 My name is " + name + " and I want to " + goal);
 
@@ -52,7 +52,7 @@ public class Step1_JavaIntro {
         // 🔹 Programın bitiş mesajı
         System.out.println("\n🎉 Program başarıyla tamamlandı!");
         System.out.println("--------------------------------------------------");
-        System.out.println("Hazel Sahra - Step 1: Java'ya Giriş");
+        System.out.println("Hafize Şenyıl - Step 1: Java'ya Giriş");
         System.out.println("--------------------------------------------------");
     }
 }
