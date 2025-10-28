@@ -1,6 +1,8 @@
 // Author: Hafize Şenyıl
 // Topic: Nested Loops (İç içe döngüler)
 // Description: Advanced examples with multi-level loops
+// İç içe döngü uygulaması
+// Çarpım tablosu ve tablo biçiminde çıktı oluşturma
 
 public class NestedLoops {
     public static void main(String[] args) {
