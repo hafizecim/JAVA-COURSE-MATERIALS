@@ -1,6 +1,8 @@
 // Author: Hafize Şenyıl
 // Topic: If - Else If - Else Conditions
 // Description: Real-life decision making examples in Java
+// Karmaşık if-else karar yapısı
+// Çoklu koşullar, iç içe karşılaştırmalar (örnek: kredi onay sistemi)
 
 public class IfElseExamples {
     public static void main(String[] args) {
