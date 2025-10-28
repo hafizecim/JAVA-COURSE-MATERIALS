@@ -1,6 +1,8 @@
 // Author: Hafize Şenyıl
 // Topic: Switch-Case Statements
 // Description: Decision-making using switch-case in Java
+// Gelişmiş switch-case
+// Matematiksel hesap makinesi – switch yapısı + Scanner girişi
 
 public class SwitchCaseExamples {
     public static void main(String[] args) {
