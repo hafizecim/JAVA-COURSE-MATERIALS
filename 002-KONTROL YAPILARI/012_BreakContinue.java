@@ -1,6 +1,8 @@
 // Author: Hafize Şenyıl
 // Topic: Break and Continue
 // Description: Advanced control flow inside loops
+// Break & continue örnekleri
+// Kullanıcıdan giriş alarak döngüyü kontrol etme
 
 public class BreakContinue {
     public static void main(String[] args) {

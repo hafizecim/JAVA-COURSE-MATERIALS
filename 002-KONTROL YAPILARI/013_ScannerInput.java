@@ -1,6 +1,8 @@
 // Author: Hafize Şenyıl
 // Topic: Scanner Class – User Input
 // Description: Taking different types of input from the user
+// Scanner ile kullanıcı doğrulama
+// Kullanıcı girişi (şifre sınırı + hata mesajı)
 
 import java.util.Scanner;
 
