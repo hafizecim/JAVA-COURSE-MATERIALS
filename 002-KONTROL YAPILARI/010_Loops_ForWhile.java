@@ -1,6 +1,8 @@
 // Author: Hafize Şenyıl
 // Topic: For, While, Do-While Loops
 // Description: Repeating tasks using different types of loops in Java
+// Döngülerle desen oluşturma
+// for ve while kullanarak yıldız (★) desenleri çizme
 
 public class LoopsExamples {
     public static void main(String[] args) {
